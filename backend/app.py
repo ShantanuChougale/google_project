@@ -12,7 +12,7 @@ db_config = {
     "host": "database-1.c0rg4486gfud.us-east-1.rds.amazonaws.com",
     "user": "admin",
     "password": "cloud123",
-    "database": "mysql"
+    "database": "cloud"
 }
 
 def get_db_connection():
